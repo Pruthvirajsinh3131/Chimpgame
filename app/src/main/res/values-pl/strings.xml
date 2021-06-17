@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChimpGame_Vala_48207</string>
+    <string name="txtview_result">Wynik gry jest tutaj</string>
+    <string name="btn_Random">Losowy</string>
+    <string name="btn_Result">Wynik</string>
+    <string name="btn_start_game">Uruchomić grę</string>
+</resources>

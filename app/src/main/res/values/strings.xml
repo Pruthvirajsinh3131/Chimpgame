@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChimpGame_Vala_48207</string>
+    <string name="txtview_result">Result of the game is here</string>
+    <string name="btn_Random">Random</string>
+    <string name="btn_start_game">Start Game</string>
+    <string name="btn_Result">Result</string>
+</resources>
